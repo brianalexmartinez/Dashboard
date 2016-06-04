@@ -38,6 +38,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-archives
   jekyll-paginate
   jekyll-watch
   json
