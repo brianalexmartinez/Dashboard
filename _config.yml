@@ -11,7 +11,7 @@ email: shortysupport@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A web dashboard with usefull info
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://brianalexmartinez.github.io/dashboard" # the base hostname & protocol for your site
+url: "http://brianalexmartinez.github.io/Dashboard" # the base hostname & protocol for your site
 twitter_username: nushortysupport
 github_username:  brianalexmartinez
 facebook_username:  Brian Maritnez
@@ -26,14 +26,3 @@ paginate: 5
 paginate_path: "page/:num"
 # Build settings
 markdown: kramdown
-
-# Archive
-jekyll-archives:
-  enabled: []
-  layout: 'archive'
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
