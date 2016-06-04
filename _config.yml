@@ -18,7 +18,6 @@ facebook_username:  Brian Maritnez
 
 # Gems
 gems: 
-- jekyll-archives
 - jekyll-paginate
 
 # Config
