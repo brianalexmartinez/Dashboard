@@ -10,8 +10,7 @@ title: ShortDash
 email: shortysupport@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A web dashboard with usefull info
-source: DIR
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "brianalexmartinez.github.io/dashboard" # the subpath of your site, e.g. /blog
 url: "http://brianalexmartinez.github.io/dashboard" # the base hostname & protocol for your site
 twitter_username: nushortysupport
 github_username:  brianalexmartinez
